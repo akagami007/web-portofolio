@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { Contact } from "@/components/Contact";
 
 export default function Hero() {
   return (
@@ -43,10 +44,10 @@ export default function Hero() {
         </p>
         <div className="flex gap-4">
           <a href="#projects" className="btn btn-primary">
-            Lihat Karya Saya
+            Check Out My Work
           </a>
           <a href="#contact" className="btn btn-outline">
-            Hubungi Saya
+            Contact Me
           </a>
         </div>
       </div>
