@@ -32,14 +32,14 @@ export default function Contact() {
         </p>
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="mailto:thefuscomarco@gmail.com"
+            href="mailto:[thefuscomarco@gmail.com]"
             className="btn btn-primary"
             style={{ padding: "1rem 2rem", fontSize: "1.1rem" }}
           >
             Send Email
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/stefan-cornelius-9b2916a1/"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-outline"
@@ -48,7 +48,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/akagami007"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-outline"

@@ -1,17 +1,17 @@
 export default function Projects() {
   const projects = [
     {
-      title: "Insurance Developer",
-      role: "Pega Developer",
-      desc: "Create an insurance website using PEGA. Validated checkout flows, user authentication, and API endpoints.",
+      title: "Pega Developer",
+      role: "Insurance Developer",
+      desc: "Create an insurance website and mobile app for a small business using PEGA.",
       tech: ["PEGA", "JavaScript", "Java"],
       color: "var(--primary)",
     },
     {
-      title: "Dashboard Analytics & Portofolio",
+      title: "Freelance Web Developer",
       role: "Web Developer",
-      desc: "Interactive admin dashboard to visualize sales data in real-time. Implemented using React, Chart.js, Node.js and Laravel backend.",
-      tech: ["React.js", "NextJs", "Node.js", "TailwindCSS", "Laravel"],
+      desc: "Create an E-commerce Website for a small business. Create landing page for a company profile. Create Website for a event expo. And Create an API for a small business.",
+      tech: ["React.js", "NextJs", "Node.js", "TailwindCSS", "Laravel", "Stripe", "PostgreSQL"],
       color: "var(--secondary)",
     },
     {
