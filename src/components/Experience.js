@@ -7,7 +7,7 @@ export default function Experience() {
       desc: "Designed and implemented an automated testing framework using Katalon Studio and Playwright. Reduced regression time by up to 40%. Performed manual UI and functional testing, and generated documentation and reports.",
     },
     {
-      year: "2019 - 2021",
+      year: "2019 - Now",
       title: "Web Developer",
       company: "Freelance",
       desc: "Building various responsive web applications using React.js and Node.js. Collaborating closely with the UI/UX design team.",
